@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m a web developer who loves working with C#. <br>In my free time, I enjoy creating games and simple apps, which helps me grow as a developer.<br>I’m always learning, improving my skills, and looking for new opportunities in IT to build a successful career.
+I’m a web developer who loves working with C#. <br>In my free time, I enjoy creating games and simple apps.<br>I’m always learning, improving my skills, and looking for new opportunities in IT to build a successful career.
 
 
 ## 🌐 Socials:
