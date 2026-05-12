@@ -12,7 +12,7 @@ I’m a web developer who loves working with C#. <br>In my free time, I enjoy cr
 ![](https://github-readme-streak-stats.herokuapp.com/?user=MrGreenCheezz&theme=dark&hide_border=false)
 
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=MrGreenCheezz&theme=dark&hide_border=false)
+![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MrGreenCheezz&theme=dark&layout=compact)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=MrGreenCheezz&icon=1&color=0)](https://visitcount.itsvg.in)
