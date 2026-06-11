@@ -3,6 +3,7 @@ I’m a web developer who loves working with C#. <br>In my free time, I enjoy cr
 
 
 ## 🌐 Socials:
+Website with short info: [Here!](https://mrgreencheezz.github.io/my-resume-site/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/александр-борозенцев-b68114267) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anonsandro@gmail.com) 
 
 # 💻 Tech Stack:
