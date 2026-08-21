@@ -15,3 +15,4 @@ I build desktop tools and web apps with ASP.NET Core and React, and make small g
 
 # 📊 GitHub Stats:
 
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=MrGreenCheezz)
